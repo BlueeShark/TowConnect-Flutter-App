@@ -4,8 +4,6 @@
 
 TowConnect est une application mobile développée avec Flutter qui met en relation des conducteurs en difficulté avec des dépanneurs professionnels. L'application offre une solution complète pour la gestion des demandes de dépannage en temps réel, avec des fonctionnalités de géolocalisation, de suivi en direct, et de paiement sécurisé.
 
-![Logo de TowConnect](assets/images/logo.png)
-
 ## Fonctionnalités Principales
 
 ### Pour les Conducteurs
@@ -67,6 +65,7 @@ L'application est structurée selon l'architecture MVVM (Model-View-ViewModel) a
 ## Captures d'Écran
 
 <div align="center">
+  <img src="assets/images/Screenshot_1747396435.png" alt="Suivi en temps réel" width="200"/>
   <img src="assets/images/Screenshot_1747396575.png" alt="Écran d'accueil" width="200"/>
   <img src="assets/images/Screenshot_1747396582.png" alt="Carte des dépanneurs" width="200"/>
   <img src="assets/images/Screenshot_1747396591.png" alt="Détails de la demande" width="200"/>
@@ -83,8 +82,6 @@ L'application est structurée selon l'architecture MVVM (Model-View-ViewModel) a
 <div align="center">
   <img src="assets/images/Screenshot_1747396793.png" alt="Tableau de bord dépanneur" width="200"/>
   <img src="assets/images/Screenshot_1747396817.png" alt="Navigation" width="200"/>
-  <img src="assets/images/Screenshot_1747396262.png" alt="Interface dépanneur" width="200"/>
-  <img src="assets/images/Screenshot_1747396435.png" alt="Suivi en temps réel" width="200"/>
 </div>
 
 ## Licence
