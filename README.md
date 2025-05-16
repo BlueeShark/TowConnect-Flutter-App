@@ -77,10 +77,6 @@ L'application est structurée selon l'architecture MVVM (Model-View-ViewModel) a
   <img src="assets/images/Screenshot_1747396635.png" alt="Notifications" width="200"/>
   <img src="assets/images/Screenshot_1747396776.png" alt="Historique" width="200"/>
   <img src="assets/images/Screenshot_1747396788.png" alt="Paiement" width="200"/>
-</div>
-
-<div align="center">
-  <img src="assets/images/Screenshot_1747396793.png" alt="Tableau de bord dépanneur" width="200"/>
   <img src="assets/images/Screenshot_1747396817.png" alt="Navigation" width="200"/>
 </div>
 
