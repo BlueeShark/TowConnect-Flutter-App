@@ -82,4 +82,4 @@ L'application est structurée selon l'architecture MVVM (Model-View-ViewModel) a
 
 ## Licence
 
-© 2023 TowConnect - Tous droits réservés
+© 2025 TowConnect - Tous droits réservés
